@@ -1,7 +1,6 @@
 {
   "name": "instagram-web-api",
   "version": "2.2.2",
-  "type": "module",
   "description": "Instagram Private Web API client written in JS",
   "license": "MIT",
   "main": "lib/index.js",
@@ -58,7 +57,7 @@
   },
   "dependencies": {
     "is-url": "^1.2.4",
-    "node-fetch": "^3.0.0",
+    "node-fetch": "^2.6.5",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
     "tough-cookie": "^3.0.1",
