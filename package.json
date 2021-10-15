@@ -1,6 +1,7 @@
 {
   "name": "instagram-web-api",
   "version": "2.2.2",
+  "type": "module",
   "description": "Instagram Private Web API client written in JS",
   "license": "MIT",
   "main": "lib/index.js",
